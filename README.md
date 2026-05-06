@@ -9,14 +9,14 @@
 # 🚀 Languages and Tools:
 
 <p align="left"> 
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,firebase,docker,vscode,eclipse,ollama,artificialinbtelligence" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,mysql,mongodb,git,github,firebase,docker,vscode,eclipse,react.js" />
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codetechi&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=codetechi&show_icons=true&theme=tokyonight" />
 
 ---
 
