@@ -74,36 +74,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-<!-- GitHub Stats — 3 Cards in a Row -->
-<div align="center">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=codetechi&show_icons=true&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=00d2ff&icon_color=6a11cb&text_color=c9d1d9&border_color=2575fc" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=codetechi&theme=tokyonight&border_radius=12&hide_border=false&background=0d1117&stroke=2575fc&ring=00d2ff&fire=ff6b6b&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=00d2ff&sideLabels=c9d1d9&dates=6a11cb" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codetechi&layout=donut&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&border_color=2575fc" />
-
-</div>
-
----
-
-<!-- GitHub Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codetechi&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=6" />
-
-</div>
-
----
 
 
 
