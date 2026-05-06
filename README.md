@@ -3,18 +3,6 @@
 <!-- Animated 3D Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:00d2ff&height=200&section=header&text=Hi%20there!%20I'm%20Aishwarya%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Passionate%20Tech%20Student%20%7C%20AI%20Explorer%20%7C%20Cybersecurity%20Enthusiast&descSize=16&descAlignY=56&animation=fadeIn" />
 
-<!-- Typing Animation -->
-<a href="https://github.com/codetechi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=false&width=600&lines=💻+Full+Stack+Developer+in+the+Making;🔐+Cybersecurity+Enthusiast;🤖+AI+%26+ML+Explorer;🚀+Always+Building.+Always+Learning." alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Profile Badges Row -->
-[![Profile Views](https://komarev.com/ghpvc/?username=codetechi&color=00d2ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/codetechi)
-![GitHub followers](https://img.shields.io/github/followers/codetechi?color=6a11cb&style=for-the-badge&logo=github&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/codetechi?color=2575fc&style=for-the-badge&logo=github&label=STARS)
-
 </div>
 
 ---
