@@ -18,7 +18,7 @@ username: codetechi
 location: India 🇮🇳
 
 education:
-  - Passionate Tech Student
+  - Bachelor's of Technology 
 
 currently_learning:
   - Artificial Intelligence & Machine Learning
@@ -61,12 +61,13 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Eclipse](https://img.shields.io/badge/Eclipse-FCC624?style=for-the-badge&logo=eclipse&logoColor=black)
 
 <br/>
 
 <!-- Animated Skill Icons (3D-style) -->
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb,firebase,docker,git,github,vscode&perline=6&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb,firebase,docker,git,github,vscode,eclipse&perline=6&theme=dark" />
 </p>
 
 </div>
@@ -171,8 +172,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codetechi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codetechi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-shroff-605a25274/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codetechi)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=About.me&logoColor=white)](https://codetechi.github.io)
