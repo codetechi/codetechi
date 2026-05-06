@@ -51,14 +51,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <br/>
 
----
-
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Languages & Tools
-
-<br/>
-
 <a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /></a>&nbsp;
 <a href="#" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" /></a>&nbsp;
 <a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>&nbsp;
@@ -77,18 +69,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 </div>
 
 ---
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb,firebase,docker,git,github,vscode,linux,eclipse&perline=7&theme=dark" />
-
-</div>
-
----
-
-
-
-
 
 <!-- What I'm Currently Doing -->
 <div align="center">
