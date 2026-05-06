@@ -79,17 +79,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-<br/>
-
-<!-- Animated Skill Icons (3D-style) -->
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb,firebase,docker,git,github,vscode,eclipse&perline=6&theme=dark" />
-</p>
-
-</div>
-
----
-
 
 
 
