@@ -35,11 +35,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <br clear="right"/>
 
----
-
-<!-- 3D Skills Section -->
-<div align="center">
-
 
 <!-- Skill Badges with 3D-style hover (shields.io for-the-badge) -->
 
