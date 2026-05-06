@@ -40,9 +40,6 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 <!-- 3D Skills Section -->
 <div align="center">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Languages & Tools
-
-<br/>
 
 <!-- Skill Badges with 3D-style hover (shields.io for-the-badge) -->
 
@@ -54,22 +51,32 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white&labelColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white&labelColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white&labelColor=1572B6)
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white&labelColor=4479A1)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=plastic&logo=mongodb&logoColor=white&labelColor=47A248)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black&labelColor=FFCA28)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white&labelColor=2496ED)
+<div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white&labelColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white&labelColor=181717)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=white&labelColor=007ACC)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black&labelColor=FCC624)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=plastic&logo=eclipse&logoColor=white&labelColor=2C2255)
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Languages & Tools
+
+<br/>
+
+<a href="#" title="Java"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Python"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="CSS3"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="MySQL"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="MongoDB"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Firebase"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="GitHub"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="VS Code"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" /></a>&nbsp;
+<a href="#" title="Eclipse"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" width="48" /></a>
+
+</div>
+
+---
 
 <br/>
 
