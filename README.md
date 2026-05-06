@@ -105,35 +105,7 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
 
-## 📈 Contribution Activity
-
-<br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=codetechi&bg_color=0d1117&color=00d2ff&line=6a11cb&point=2575fc&area=true&area_color=00d2ff&hide_border=false&border_color=2575fc&radius=12" />
-
-</div>
-
----
-
-<!-- Animated Snake Contribution Grid -->
-<div align="center">
-
-## 🐍 Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codetechi/codetechi/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codetechi/codetechi/output/github-contribution-grid-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/codetechi/codetechi/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
----
 
 <!-- What I'm Currently Doing -->
 <div align="center">
@@ -173,8 +145,8 @@ fun_fact: "I debug with console.log and I'm not ashamed 😄"
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwarya-shroff-605a25274/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codetechi)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shotflicks)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](divineaish01@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00d2ff?style=for-the-badge&logo=About.me&logoColor=white)](https://codetechi.github.io)
 
 <br/>
